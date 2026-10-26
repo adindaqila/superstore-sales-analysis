@@ -1,5 +1,6 @@
 # Sales Performance Analysis: Superstore
 SQL analysis and a Looker Studio dashboard using the public Kaggle Superstore dataset. This project uses sample retail data, not real company data.
+
 **Dashboard:** [View Looker Studio Dashboard](https://datastudio.google.com/reporting/c344b7f9-3223-4d6d-9cb1-1101f5c63686)
 
 ## Problem Statement
@@ -29,6 +30,6 @@ MySQL (MariaDB via phpMyAdmin) · Looker Studio · Excel
 - The dataset does not include sufficient cost or promotion details to explain all loss patterns.
 
 ## Files
-- `sql/superstore_analysis.sql` — data checks, cleaning, and analysis queries.
+- `superstore_analysis.sql` — data checks, cleaning, and analysis queries.
 - `data/` — CSV query results used for the dashboard.
 - `dashboard/dashboard.png` — dashboard screenshot.
