@@ -33,3 +33,8 @@ MySQL (MariaDB via phpMyAdmin) · Looker Studio · Excel
 - `superstore_analysis.sql` — data checks, cleaning, and analysis queries.
 - `data/` — CSV query results used for the dashboard.
 - `dashboard/dashboard.png` — dashboard screenshot.
+
+## Data Source
+[Kaggle Superstore dataset (public)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+The raw file is not included in this repo.
